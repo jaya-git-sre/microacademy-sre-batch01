@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "list number of users and their details"
+echo " go to peesent working directory"
+echo " go to list command"
+echo "cat"
+echo "cat/etc/passwd" 
