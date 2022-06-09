@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Program name: "ReadVar.sh"
+# Program name: "jaya.sh"
 # Linux shell script program to read two integer numbers and 
 # print the subtraction of both variables.
 
